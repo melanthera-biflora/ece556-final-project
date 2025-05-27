@@ -38,6 +38,7 @@ To run the notebooks, the following Python packages are recommended:
 ## 📌 Purpose
 
 The goal of this project is to develop a scalable, satellite-based salinity monitoring and forecasting framework that can support climate resilience and agricultural planning in vulnerable coastal regions like the Mekong Delta.
+Here attached is my final report: https://drive.google.com/file/d/1ovZrpP1G42rK28_nQ8o91yJ8Q5Ixte8b/view?usp=sharing 
 
 ---
 
